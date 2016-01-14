@@ -1,0 +1,2 @@
+# FortiParse
+Fortigate Configuration Parser
